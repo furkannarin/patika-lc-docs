@@ -1,0 +1,162 @@
+[
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Grocery Shopping",
+    "description": "Buy weekly groceries from the supermarket",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Clean the Living Room",
+    "description": "Vacuum and dust the living room",
+    "status": "in-progress",
+    "person": "Dad"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Do Homework",
+    "description": "Finish math and science homework",
+    "status": "unstarted",
+    "person": "Child"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Family Movie Night",
+    "description": "Pick a movie and prepare snacks",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Mow the Lawn",
+    "description": "Cut the grass in the front and back yard",
+    "status": "in-progress",
+    "person": "Dad"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Wash the Dishes",
+    "description": "Clean up after dinner",
+    "status": "unstarted",
+    "person": "Child"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Plan Weekend Trip",
+    "description": "Look up nearby destinations and book hotel",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Car Wash",
+    "description": "Wash and vacuum the family car",
+    "status": "finished",
+    "person": "Dad"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Organize Garage",
+    "description": "Sort out tools and storage boxes",
+    "status": "unstarted",
+    "person": "Dad"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Bake Cookies",
+    "description": "Try a new chocolate chip recipe together",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Board Game Night",
+    "description": "Play Monopoly or Scrabble as a family",
+    "status": "finished",
+    "person": "Child"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Feed the Pet",
+    "description": "Refill the dog’s food and water bowls",
+    "status": "in-progress",
+    "person": "Child"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Laundry Day",
+    "description": "Wash, dry, and fold clothes",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Pay Bills",
+    "description": "Pay electricity and internet bills",
+    "status": "finished",
+    "person": "Dad"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Read Together",
+    "description": "Read a chapter from the family book",
+    "status": "in-progress",
+    "person": "Child"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Decorate for Holiday",
+    "description": "Put up decorations around the house",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Clean Bathrooms",
+    "description": "Scrub sinks, showers, and toilets",
+    "status": "in-progress",
+    "person": "Dad"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Make School Lunches",
+    "description": "Prepare meals for the next school day",
+    "status": "unstarted",
+    "person": "Mom"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Take Out Trash",
+    "description": "Empty kitchen and bathroom bins",
+    "status": "finished",
+    "person": "Child"
+  },
+  {
+    "created": "2025-04-08T00:00:00.000Z",
+    "finished": null,
+    "title": "Water Plants",
+    "description": "Water indoor and outdoor plants",
+    "status": "finished",
+    "person": "Child"
+  }
+]

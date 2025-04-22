@@ -1,0 +1,2 @@
+show how to implement redux and zustand
+explain differences with using context api
