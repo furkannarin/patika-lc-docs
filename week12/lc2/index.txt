@@ -1,0 +1,6 @@
+implemented challenges:
+localization implementation
+iban validator
+
+also talked about keyboard aware controller
+keyboard problems, listeners etc.
